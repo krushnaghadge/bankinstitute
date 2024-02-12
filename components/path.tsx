@@ -160,7 +160,8 @@ className="w-full h-full object-cover mt-12 ml-auto"
                     </ul>
                   </div>
                   <div>
-                    <Image src="Curriculum01.png " alt="image here" />
+                    <Image src="Curriculum01.png " alt="image here"  width="500"/>
+
                   </div>
                 </div>
               </div>
